@@ -1,0 +1,1 @@
+# ILConsigliere-SonarCloud
